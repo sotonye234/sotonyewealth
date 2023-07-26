@@ -1,0 +1,78 @@
+
+
+    .samuel{
+        color: green;
+    }
+    #wealth{
+        color: gold;
+        border: 2px dashed green;
+    }
+    .wealth{
+        color: aquamarine;
+    }
+    /*mobile view */
+    @media(min-width:280px){
+        body{
+            color:greenyellow ;
+            font: size 2rem;
+        }
+        h1{
+       font-size: 10px;    
+        }
+
+    }
+    /*tablet view */
+    @media(min-width:700px){
+        body{
+            color:violet ;
+            font: 1.5rem;
+        }
+        h1{
+         font-size: 20px;   
+        }
+
+    }
+    /*desktop */
+    @media(min-width:1000px){
+        body{
+            color:skyblue ;
+            font: size 2.5rem; ;
+        }
+        h1{
+        font-size: 50px;   
+        }
+    }
+  
+
+     nav{
+         background-color: black;
+        /* background-image:url(./50267381d234d555335dd1ee688093f4.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 500px;
+        height: 150px; */ 
+     }
+    ul{
+        display: inline-flex;
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+        padding: 20px;
+        
+    }
+    a:hover{
+        color: red;
+    }
+
+    
+
+
+        
+    
+    
+        
+ 
+
+    

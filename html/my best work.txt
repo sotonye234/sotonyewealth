@@ -1,0 +1,10 @@
+about html<!DOCTYPE html>
+<html>
+<head>
+<title>am learning html</title>
+</head>    
+<body>
+ <h1> about us</h1>
+
+</body>
+</html>
